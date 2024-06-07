@@ -6,4 +6,4 @@
 - Para aprender a linguagem de Javacript,entre outras
 - Uso esse perfil pra organizar meus projetos
 
-![](https://tenor.com/pt-BR/view/chiquichico-gif-26004262)
+![](https://tenor.com/bVg3K.gif)
