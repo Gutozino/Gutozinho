@@ -1,6 +1,6 @@
 ### Bem vindo ao meu perfil
 
-- Meu nome e Gustavo
+- Meu nome e **Gustavo**
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Para aprender a linguagem de Javacript,entre outras
